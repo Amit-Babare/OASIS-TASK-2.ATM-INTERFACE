@@ -30,4 +30,6 @@ The application simulates basic ATM operations and allows a user to securely acc
 
 ---
 
-## 🔐 Sample Login Credentials
+## Author
+Amit Babare
+
